@@ -84,8 +84,13 @@ python -m streamlit run app.py
 - *"How many casual leaves are allowed per year?"*
 - *"What are the working hours?"*
 - *"What is the leave policy for staff?"*
-- This project is for educational and demonstration purposes only. The HR policy document used belongs to its respective owner and is used only as a sample dataset
+  
 
 ## 🙋 Author
 
 **Nishant Tyagi**  
+
+
+
+This project is for educational and demonstration purposes only. The HR policy document used belongs to its respective owner and is used only as a sample dataset
+
